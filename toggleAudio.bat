@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& 'D:\Apps\toggleAudio\toggleAudio.ps1'
