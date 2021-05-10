@@ -2,7 +2,7 @@
 
 $AudioDevice_Speakers_NAME = "Speakers (High Definition Audio Device)"
 $AudioDevice_Speakers_ID = "{0.0.0.00000000}.{f837b022-80be-4cd0-960a-61337466808c}" #Name    : "Speakers (High Definition Audio Device)"
-$AudioDevice_Headset_NAME = "Speakers (Logitech G935/G933s Gaming Headset)"
+$AudioDevice_Headset_NAME = "Speakers (3- Logitech G935/G933s Gaming Headset)"
 $AudioDevice_Headset_ID = "{0.0.0.00000000}.{b11842f0-84ec-4c34-9d98-0266df87adee}" #Name    : Speakers (Logitech G935/G933s Gaming Headset) 
 
 #Get-AudioDevice -List | where Type -like "Recording" | where name -like "*Logitech*" | Set-AudioDevice -Verbose 
